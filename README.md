@@ -1,5 +1,7 @@
 **Project Summary: SuperStore Sales Analysis**
 
+Tableau - https://public.tableau.com/app/profile/yamin3547/viz/SuperstoreSalesInsights_16959200256060/Dashboardmap#1
+
 In this data analysis project, I examined the sales dataset from the SuperStore, sourced from the Real Life Data Project for HiCounselor. The objective was to gain insights into various aspects of the business, using both Python and SQL in a Jupyter notebook, alongside data visualization performed in Tableau. Here are the key findings:
 
 1. **Percentage of Same-Day Shipments:** Explored the percentage of total orders that were shipped on the same date, providing insights into delivery efficiency.
